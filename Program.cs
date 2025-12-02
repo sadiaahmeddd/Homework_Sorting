@@ -70,6 +70,8 @@ namespace Homework_sorting
                     }
                 }
 
+
+
                 // Optimization: 
                 if (!swapped)
                     break;
